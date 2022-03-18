@@ -18,6 +18,8 @@ Just go to your Bot Detector folder and drag it into cfg. So easy!
 
 Use it in conjunction with other third-party lists to guarantee maximum efficacy.
 
+If someone alters my list and tries to pass it off as legitimate, all it takes is two people using my list from this repository to verify that they are lying.
+
 If an alleged cheater is only on my list, and not on any other list you're using, take my allegations with a grain of salt.
 I'm confident that my allegations are correct, but you shouldn't take my word for it.
 Wait and see if someone else accuses them, see if their in-game name is different from their Steam name, and use my videos to guide you.
