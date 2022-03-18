@@ -6,7 +6,7 @@
         ],
         "description": "Privately maintained cheater blacklist for TF2 Bot Detector. USE WITH CAUTION!",
         "title": "Vado's Personal Cheater List",
-        "update_url": ""
+        "update_url": "https://raw.githubusercontent.com/Vadographer/Privately-Maintained-Cheater-List/main/playerlist.vado.json"
     },
     "players": [
         {
