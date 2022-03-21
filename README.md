@@ -3,6 +3,9 @@
 My personally-maintained list of cheaters in TF2, for use with Pazer's Bot Detector.
 I recommend disabling chat messages, and only re-enabling thme after you've called out a cheater(s).
 
+If you're not already using Pazer's Bot Detector, you can find it here.
+https://github.com/PazerOP/tf2_bot_detector
+
 I cannot guarantee 100% accuracy from my list alone.
 What I can guarantee is 95% accuracy. I'm only human, and humans can make mistakes.
 
